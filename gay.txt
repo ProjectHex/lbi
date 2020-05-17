@@ -1,0 +1,15 @@
+local SLG = Instance.new("ScreenGui")
+local ImageLabel = Instance.new("ImageLabel")
+
+SLG.Name = "SLG"
+SLG.Parent = game.CoreGui
+SLG.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+SLG.ResetOnSpawn = false
+
+ImageLabel.Parent = SLG
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 1.000
+ImageLabel.BorderSizePixel = 0
+ImageLabel.Position = UDim2.new(-0.00615384569, 0, 0.907862425, 0)
+ImageLabel.Size = UDim2.new(0, 100, 0, 100)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=5043928836"
