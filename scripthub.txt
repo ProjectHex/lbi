@@ -1,0 +1,1 @@
+{"scripts":{"DEX":{"Name":"Dex","FileName":"darkdex_v1.lua","Desc":"An edited version of Raspberry Pi's DEX explorer","Picture":"https://i.gyazo.com/b89d5c8f16837504f68d228333a0350b.png","ScriptExecute":"loadstring(HttpGet('https://cdn.wearedevs.net/scripts/Dex%20Explorer%20V2.txt'))()"}}}
